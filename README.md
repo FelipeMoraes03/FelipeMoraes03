@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Felipe Moraes
 
-- 📖 Computer Science Student at Cin UFPE
+- 🎓 Computer Science Student at Cin UFPE
 - 📊 Currently aiming to improve my Data Science skills
 - 🧠 Always looking for improve my knowledge
 
